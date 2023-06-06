@@ -1,7 +1,7 @@
-int my_swap(int);
+int my_putstr ( char const *str);
 
 int main(void)
 {
-    my_swap();
+    my_putstr();
     return 0;
 }
